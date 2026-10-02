@@ -1,0 +1,7 @@
+{
+  "name": "01-primer-socket",
+  "version": "1.0.0",
+  "scripts": { "dev": "nodemon src/index.js", "start": "node src/index.js" },
+  "dependencies": { "express": "^4.19.2", "socket.io": "^4.7.5" },
+  "devDependencies": { "nodemon": "^3.1.4" }
+}
